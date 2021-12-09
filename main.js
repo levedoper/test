@@ -80,7 +80,7 @@ database.forEach((variant) => {
   console.log(variant.SpecimenNum,variant.dna)
 })
 
-console.log('test')
+console.log('test2')
 
 
 
